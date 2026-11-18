@@ -1,0 +1,9 @@
+
+.venv/
+Data/Raw/
+*.parquet
+*.duckdb
+*.duckdb.wal
+__pycache__/
+.env
+.vscode/
